@@ -1,13 +1,9 @@
 # unity3d-reorderable-list-examples
 
-[![npm version](https://badge.fury.io/js/%40rotorz%2Funity3d-reorderable-list-examples.svg)](https://badge.fury.io/js/%40rotorz%2Funity3d-reorderable-list-examples)
-[![Dependency Status](https://david-dm.org/rotorz/unity3d-reorderable-list-examples.svg)](https://david-dm.org/rotorz/unity3d-reorderable-list-examples)
-[![devDependency Status](https://david-dm.org/rotorz/unity3d-reorderable-list-examples/dev-status.svg)](https://david-dm.org/rotorz/unity3d-reorderable-list-examples#info=devDependencies)
-
 Some examples demonstrating how to use the [@rotorz/unity3d-reorderable-list](https://github.com/rotorz/unity3d-reorderable-list) library.
 
 ```sh
-$ npm install --save @rotorz/unity3d-reorderable-list-examples
+$ npm install --save rotorz/unity3d-reorderable-list-examples
 ```
 
 This package is compatible with [unity3d-package-syncer](https://github.com/rotorz/unity3d-package-syncer).
