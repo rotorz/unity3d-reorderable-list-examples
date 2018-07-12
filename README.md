@@ -3,10 +3,13 @@
 Some examples demonstrating how to use the [@rotorz/unity3d-reorderable-list](https://github.com/rotorz/unity3d-reorderable-list) library.
 
 ```sh
-$ npm install --save rotorz/unity3d-reorderable-list-examples
+$ yarn add rotorz/unity3d-reorderable-list-examples
 ```
 
-This package is compatible with [unity3d-package-syncer](https://github.com/rotorz/unity3d-package-syncer).
+This package is compatible with the [unity3d-package-syncer][tool] tool. Refer to the
+tools' [README][tool] for information on syncing packages into a Unity project.
+
+[tool]: https://github.com/rotorz/unity3d-package-syncer
 
 
 ## Contribution Agreement
