@@ -1,6 +1,6 @@
 {
   "name": "@rotorz/unity3d-reorderable-list-examples",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Some examples demonstrating how to use the @rotorz/unity3d-reorderable-list library.",
   "main": "index.js",
   "scripts": {
