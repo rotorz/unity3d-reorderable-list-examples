@@ -30,7 +30,7 @@ namespace Rotorz.Games.Examples.ReorderableList
         {
             if (this == s_SelectedList && this.List[index] == s_SelectedItem) {
                 Color restoreColor = GUI.color;
-                GUI.color = ExtraEditorStyles.Instance.Skin.SelectedHighlightColor;
+                GUI.color = ExtraEditorStyles.Skin.SelectedHighlightColor;
                 GUI.DrawTexture(position, EditorGUIUtility.whiteTexture);
                 GUI.color = restoreColor;
             }
